@@ -142,6 +142,11 @@ rm -f clave_secreta.bin clave_secreta.pem clave_mac.bin clave_mac.pem secreto_ci
 ├── remitente/
 │     └── secreto.txt          # Mensaje de ejemplo a enviar   
 │
+├── INSTRUCTIONS.md            # Instrucciones de instalación y ejecución del proyecto
 ├── README.md                  # Descripción del proyecto 
 └── criptosistema.sh           # Script principal
 ```
+
+## Instalación y ejecución
+
+Ver [INSTRUCTIONS.md](INSTRUCTIONS.md)
